@@ -1,0 +1,22 @@
+Introduce un numero para la posicion 0
+79
+Introduce un numero para la posicion 1
+458
+Introduce un numero para la posicion 2
+78
+Introduce un numero para la posicion 3
+216
+Introduce un numero para la posicion 4
+84
+Introduce un numero para la posicion 5
+5465
+Introduce un numero para la posicion 6
+84
+Introduce un numero para la posicion 7
+321
+Introduce un numero para la posicion 8
+85
+Introduce un numero para la posicion 9
+45
+le media de los valores de los numeros pares del vector es 82
+BUILD SUCCESSFUL (total time: 10 seconds)
